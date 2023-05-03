@@ -80,4 +80,4 @@ bash train_paradise.sh Project1/en-$TGT_LANG/data-bin/translation/ Project/en-$T
 and you should see your model training!
 
 
-## The script code will wrote clearly very soon
+## The script code will be written clearly very soon.
